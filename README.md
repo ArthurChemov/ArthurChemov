@@ -1,4 +1,4 @@
-# I’m Artur, Blockchain developer 👋
+# Hi, there! 👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ArthurChemov&theme=gotham&show_icons=true" />
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurChemov&theme=gotham&layout=compact" />
