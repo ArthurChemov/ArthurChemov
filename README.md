@@ -1,9 +1,6 @@
-# Hi, there! 👋
+# Добрий день, everybody! 😁
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ArthurChemov&theme=gotham&show_icons=true" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurChemov&theme=gotham&layout=compact" />
+<b>My skills:</b>
 
-<!---
-ArthurChemov/ArthurChemov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<li>HTML5, CSS3, SASS, TailwindCSS, Bootstrap</li>
+<li>JavaScript, ReactJS, Angular, UI libraries</li>
